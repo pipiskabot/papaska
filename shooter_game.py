@@ -12,7 +12,7 @@ font2 = font.SysFont(None, 36)
 
 #фоновая музыка
 mixer.init()
-mixer.music.load('space.ogg')
+mixer.music.load('usa-national-anthem-instrumental.mp3')
 mixer.music.play()
 fire_sound = mixer.Sound('toshnota-silnaya-mujskaya-otryijka.ogg')
 
